@@ -1,2 +1,0 @@
-# JPA
-JPA Programming
