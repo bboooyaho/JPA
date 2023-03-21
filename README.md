@@ -1,7 +1,7 @@
 # JPA
 JPA Programming
 
-<a href="https://github.com/bboooyaho" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://github.com/bboooyaho" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=git&logoColor=FFFFFF"/></a>
 
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 
