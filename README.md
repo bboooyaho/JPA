@@ -1,7 +1,7 @@
 # JPA
 JPA Programming
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=appveyor&logoColor=FFFFFF"/></a>
+<a href="https://github.com/bboooyaho" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=appveyor&logoColor=FFFFFF"/></a>
 
 Inflearn 강좌 - 자바 ORM 표준 JPA 프로그래밍, 김영한 
 
