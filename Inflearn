@@ -2,7 +2,7 @@
 JPA Programming
 
 Inflearn 강좌 - 자바 ORM 표준 JPA 프로그래밍, 김영한 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JPA&fontSize=90" />
 
 #객체 지향 프로그래밍이란 추상화, 캡슐화, 정보은닉, 상속, 다형성 등 시스템의 복잡성을 제어할 수 ㅣ있는 다양한 장치들을 제공한다.
 
@@ -20,6 +20,27 @@ Inflearn 강좌 - 자바 ORM 표준 JPA 프로그래밍, 김영한
 2. 연관관계 
 - 객체는 참조를 사용 : member.getTeam() 
 - 테이블은 외래 키를 사용 : JOIN ON M.Team_ID = T.TEAM_ID 
+
+#ex. 객체를 테이블에 맞추어 모델링 
+class Member {
+  String id; //Member_ID 컬럼 사용 
+  Long teamId; //Team_ID FK 컬럼 사용 
+  String username; //Username 컬럼 사용 
+ }
+ 
+ class Team {
+  Long id; //Team_ID PK 사용 
+  String name; //Name 컬럼 사용 
+ }
+
+#ex.객체다운 모델링 
+
+
+
+
+
+
 3. 데이터 타입 
+
 4. 데이터 식별 방법 
 
