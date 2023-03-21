@@ -1,10 +1,11 @@
 # JPA
 JPA Programming
 
-<a href="https://github.com/bboooyaho" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://github.com/bboooyaho/" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=github&logoColor=FFFFFF"/></a>
 
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/bboooyaho/" target="_blank"><img src="https://img.shields.io/badge/bboooyaho-000000?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboooyaho&show_icons=true&theme=radical)
 
 Inflearn 강좌 - 자바 ORM 표준 JPA 프로그래밍, 김영한 
 
